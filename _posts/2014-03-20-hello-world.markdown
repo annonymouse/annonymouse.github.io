@@ -1,5 +1,6 @@
 ---
 layout: page
+title: printf("Hello World!\n");
 ---
 {% include JB/setup %}
 
